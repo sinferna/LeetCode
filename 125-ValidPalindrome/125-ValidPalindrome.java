@@ -1,4 +1,4 @@
-// Last updated: 3/1/2026, 6:10:46 PM
+// Last updated: 3/1/2026, 6:17:41 PM
 1class Solution {
 2    public boolean isPalindrome(String s) {
 3        String letters = s.toLowerCase();
